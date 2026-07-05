@@ -1,1 +1,1 @@
-vless://edb0f01a-827d-4676-ab91-bc5cf222198c@45.151.102.148:8433?encryption=none&fp=edge&pbk=nWBtSYqMPtaWSA32mI5a79EoVolTModESoBb2tnvFik&security=reality&sid=34&sni=www.sberbank.ru&spx=%2FuNhCcMlbAFm4dUF&type=tcp#-levikha54
+vless://edb0f01a-827d-4676-ab91-bc5cf222198c@45.151.102.148:8433?encryption=none&fp=edge&pbk=nWBtSYqMPtaWSA32mI5a79EoVolTModESoBb2tnvFik&security=reality&sid=6dd3d9f85c71&sni=sberbank.ru&spx=%2F&type=tcp#levikha54

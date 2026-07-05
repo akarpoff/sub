@@ -1,1 +1,1 @@
-vless://abdcc496-04c4-45f7-b4fb-fed54026a504@45.151.102.148:8433?encryption=none&fp=edge&pbk=nWBtSYqMPtaWSA32mI5a79EoVolTModESoBb2tnvFik&security=reality&sid=4b3e2783a4414321&sni=www.sbrf.ru&spx=%2FpkAFKXAu1PrhnCe&type=tcp#-vova15
+vless://abdcc496-04c4-45f7-b4fb-fed54026a504@45.151.102.148:8433?encryption=none&fp=edge&pbk=nWBtSYqMPtaWSA32mI5a79EoVolTModESoBb2tnvFik&security=reality&sid=6dd3d9f85c71&sni=sberbank.ru&spx=%2F&type=tcp#vova15
