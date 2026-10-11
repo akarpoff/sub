@@ -1,1 +1,1 @@
-vless://82c9622f-ddc9-4103-9673-d3921523fc56@45.151.102.148:8433?encryption=none&fp=edge&pbk=nWBtSYqMPtaWSA32mI5a79EoVolTModESoBb2tnvFik&security=reality&sid=a423f7229d&sni=www.sberbank.ru&spx=%2FBlZ7jb7OKYQiLrd&type=tcp#-alexey69
+vless://82c9622f-ddc9-4103-9673-d3921523fc56@193.233.230.71:443?encryption=none&fp=chrome&pbk=jmueftNyh92jjAHK0mX-5KZ9Ywd85MM3XVEA5pw1ZXM&security=reality&sid=76&sni=www.mts.ru&spx=%2F750bbd14036028a&support-x25519mlkem768=true&type=tcp#RU-MTS-443-alexey69
