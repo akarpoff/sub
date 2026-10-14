@@ -1,1 +1,1 @@
-vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?encryption=none&fp=edge&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&security=reality&sid=ce1dc482&sni=www.cloudflare.com&spx=%2FIptlXcINJmezIR8&type=tcp#inbound%20from%20ru-direct-de-october
+vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?encryption=none&fp=edge&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&security=reality&sid=ce1dc482&sni=www.cloudflare.com&spx=%2FIptlXcINJmezIR8&type=tcp#SASHA%20VPN%20%E2%80%A2%20DE
