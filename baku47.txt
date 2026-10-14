@@ -1,1 +1,1 @@
-vless://fb55d33a-950a-4e54-9875-e514f165f787@193.233.230.71:443?encryption=none&fp=chrome&pbk=jmueftNyh92jjAHK0mX-5KZ9Ywd85MM3XVEA5pw1ZXM&security=reality&sid=76&sni=www.mts.ru&spx=%2F750bbd14036028a&support-x25519mlkem768=true&type=tcp#RU-MTS-443-baku47
+vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?encryption=none&fp=edge&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&security=reality&sid=ce1dc482&sni=www.cloudflare.com&spx=%2FIptlXcINJmezIR8&type=tcp#inbound%20from%20ru-direct-de-october
