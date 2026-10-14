@@ -1,1 +1,1 @@
-vless://867588d0-2245-4d04-a89a-c8d7547244a7@193.233.230.71:443?encryption=none&fp=chrome&pbk=jmueftNyh92jjAHK0mX-5KZ9Ywd85MM3XVEA5pw1ZXM&security=reality&sid=54ae370770&sni=max.ru&spx=%2F289d234fe1723fb&support-x25519mlkem768=true&type=tcp#SASHA%20VPN%20RU%20TEST
+vless://867588d0-2245-4d04-a89a-c8d7547244a7@193.233.230.71:443?encryption=none&pbk=jmueftNyh92jjAHK0mX-5KZ9Ywd85MM3XVEA5pw1ZXM&security=reality&sid=e3ab4d&sni=max.ru&spx=%2F289d234fe1723fb&support-x25519mlkem768=true&type=tcp&fp=edge#SASHA%20VPN%20RU%20TEST
